@@ -1,0 +1,21 @@
+
+.quote {
+  margin: 2rem auto;
+  padding: 1.5rem;
+  border-left: 4px solid #0077cc;
+  background-color: #f9f9f9;
+  font-style: italic;
+  max-width: 600px;
+}
+
+.quote blockquote {
+  margin: 0;
+  padding: 0;
+}
+
+.quote footer {
+  margin-top: 1rem;
+  text-align: right;
+  font-weight: bold;
+  font-style: normal;
+}
